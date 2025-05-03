@@ -2,7 +2,7 @@
 const UPoLPrefix = [
   'edu',
   'ai',
-  'Megan',
+  'Lovely',
   'bot',
   'ask'
 ]; 
